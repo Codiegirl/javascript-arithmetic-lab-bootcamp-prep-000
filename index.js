@@ -30,7 +30,7 @@ function makeInt(a, base) {
 
 
 function preserveDecimal(a) {
-  return parseFloat('2.222') * 2.0 * String.PI;
+  return parseFloat('2.222') 
 }
   
   
